@@ -1,0 +1,75 @@
+# Copyright (C) 2010 bbP Topic Views
+# This file is distributed under the same license as the bbP Topic Views package.
+msgid ""
+msgstr ""
+"Project-Id-Version: bbP Topic Views 0.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/bbp-topic-views\n"
+"POT-Creation-Date: 2011-08-21 18:32:05+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2011-09-24 23:39+0100\n"
+"Last-Translator: Alex <3ddsaddict@gmail.com>\n"
+"Language-Team: 3DDSAit http://www.it.3ddsaddict.com/ <3ddsaddict@gmail.com>\n"
+"X-Poedit-Language: Italian\n"
+"X-Poedit-Country: ITALY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: bbp-topic-views.php:135
+msgid " <small><em>(%d views)</em></small>"
+msgstr " <small><em>(%d visualizzazioni)</em></small>"
+
+#: bbp-topic-views.php:141
+msgid " Views: %d"
+msgstr "Visualizzazioni: %d"
+
+#: bbp-topic-views.php:192
+msgid "Topics with most views"
+msgstr "Discussioni pi&ugrave; visualizzate"
+
+#: bbp-topic-views.php:204
+msgid "Settings"
+msgstr "Impostazioni"
+
+#. #-#-#-#-#  plugin.pot (bbP Topic Views 0.1)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: bbp-topic-views.php:221
+msgid "bbP Topic Views"
+msgstr "bbP Topic Views"
+
+#: bbp-topic-views.php:224
+msgid "Where to add the count on forum, topic archive, tag & view pages"
+msgstr "Dove aggiungere il contatore sul forum, archivio discussioni, tag e pagine"
+
+#: bbp-topic-views.php:234
+msgid "Settings for the bbP Topic Views Plugin"
+msgstr "Impostazioni per il bbP Topic Views Plugin"
+
+#: bbp-topic-views.php:249
+msgid "After the topic title"
+msgstr "Dopo il titolo della discussione"
+
+#: bbp-topic-views.php:252
+msgid "Before the topic meta"
+msgstr "Prima del meta della discussione"
+
+#: bbp-topic-views.php:255
+msgid "Add nowhere (<a href=\"%s\">custom configuration</a>)"
+msgstr "Da nessuna parte (<a href=\"%s\">configurazione personalizzata</a>)"
+
+#. Plugin URI of the plugin/theme
+msgid "http://wphandcraft.com/plugins/bbp-topic-views/"
+msgstr "http://wphandcraft.com/plugins/bbp-topic-views/"
+
+#. Description of the plugin/theme
+msgid "Counts the number of times a topic has been viewed, and allows the administrator to display the count in various places."
+msgstr "Conta il numero di volte in cui una discussione viene visualizzata e permette all'amministratore di visualizzare il contatore in vari posti."
+
+#. Author of the plugin/theme
+msgid "GautamGupta"
+msgstr "GautamGupta"
+
+#. Author URI of the plugin/theme
+msgid "http://gaut.am/"
+msgstr "http://gaut.am/"
+
